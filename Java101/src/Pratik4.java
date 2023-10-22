@@ -1,3 +1,5 @@
+//Kombinasyon Hesaplama
+
 import java.util.Scanner;
 
 public class Pratik4 {
